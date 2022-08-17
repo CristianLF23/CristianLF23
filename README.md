@@ -3,9 +3,9 @@ Seja bem vindo ao meu repositório, aqui estarei sempre atualizando meus projeto
 
 <h1> Linguagens estudadas até o momento: </h1>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36"/>
+  <img src="https://skillicons.dev/icons?i=html5" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=css3" width="36" height="36" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=java" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" />
