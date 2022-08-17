@@ -8,7 +8,7 @@ Seja bem vindo ao meu repositório, aqui estarei sempre atualizando meus projeto
   <img src="https://skillicons.dev/icons?i=javascript" width="36" height="36" />
 </div>
 
-<h1> Linguagens que estou estudando: </h1>
+<h1> O que estou estudando atualmente: </h1>
 <div>
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" />
   <img src="https://skillicons.dev/icons?i=java" width="36" height="36" />
